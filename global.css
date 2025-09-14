@@ -466,6 +466,12 @@ justify-content: space-between;
   flex-shrink: 0;
 }
 
+  .site-header {
+    background-color: var(--color-bg-dark);
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+
 .footer-video-placeholder {
 
   width: 100%;
